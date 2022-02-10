@@ -1,0 +1,75 @@
+﻿    .doc img{
+        width:1081px;
+        box-sizing:box-model;
+         }
+    .file img{
+        width: 156px;
+        padding:150px 609px 45px 122px;
+
+         }
+    .login{
+        padding:45px 573px 0px 126px;
+        margin-bottom:0px;
+        font-family: Roboto,Sans-Serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 41px;
+        line-height: 48px;
+        display: flex;
+        align-items: flex-end;
+        letter-spacing: 0.09em;
+        box-sizing:box-model;
+
+         }
+    .well{
+        color:#47C2C7;
+        padding-left:126px;
+        padding-top:15px;
+        width: 272px;
+        height: 30px;
+        font-family: Roboto,Sans-Serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 27px;
+        line-height: 32px;
+        display: flex;
+        align-items: flex-end;
+    }
+    .hem{
+        padding-left:126px;
+        padding-bottom:51px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        box-sizing:box-model;
+        font-size: 55px;
+        line-height: 30px;
+        height:20px;
+    }
+    .hem input{
+        width:70%;
+        border:none;
+        border-bottom:2px solid #00C0F3;
+    }
+    .border{
+        color:#47C2C7;
+    }
+    .box{
+        color:#5F5F5F;
+        padding-left:126px;
+        padding-bottom:81px;
+    }
+    .forgot{
+        color:#5F5F5F;
+        padding-right:220px;
+        float:right;
+
+    }
+    .button{
+        color:white;
+        background-color:#47C2C7;
+        padding:10px 35px 8px 32px;
+        margin-left:126px;
+        margin-bottom:265px;
+        margin-top:81px;
+    }
